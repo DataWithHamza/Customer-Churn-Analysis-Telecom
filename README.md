@@ -116,7 +116,7 @@ Designed an executive dashboard to visualize:
 
 # 📊 Dashboard
 
-![Dashboard](images/dashboard.png)
+[![Dashboard](images/dashboard.png)](https://github.com/DataWithHamza/Customer-Churn-Analysis-Telecom/blob/main/Dashboard.png)
 
 ---
 
@@ -192,4 +192,4 @@ pip install -r requirements.txt
 
 **Hamza**
 
-Aspiring Data Analyst | Python | SQL | Power BI
+Data Analyst | Python | SQL | Power BI
